@@ -43,7 +43,7 @@ src="https://cdn.getyourguide.com/img/tour/47988c7e5b8bbf0af11e62a6ff4aefeea5a7f
     content: (
       <div className="space-y-4">
         <img 
-          src="https://assets.bonappetit.com/photos/57c5d0e36a6acdf3485dfb2b/16:9/w_2240,c_limit/3717295073_f5ae257d71_o.jpg"
+          src="https://images.ctfassets.net/vm4sgchw7ymt/6BR90SQYU2NSvZr33yecnW/12a5a3ce5c4eee2aafadb96a2c81deba/pupases-el-salvador-popular-food.jpg"
           alt="Pupusas"
           className="w-full h-64 object-cover rounded-lg"
         />
