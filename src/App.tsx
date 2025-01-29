@@ -81,7 +81,7 @@ src="https://cdn.getyourguide.com/img/tour/47988c7e5b8bbf0af11e62a6ff4aefeea5a7f
     content: (
       <div className="space-y-4">
         <img 
-          src="https://example.com/path-to-image.jpghttps://www.worldsoccer.com/wp-content/uploads/sites/13/2015/09/Jorge-Magico-Gonza%CC%81lez.gif?w=630" 
+          src="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop_3x/f_auto/mls-lag-prd/vlrxle0fl4npyb0qcryf.jpg" 
           alt="Personas Famosas"
           className="w-full h-64 object-cover rounded-lg"
         />
