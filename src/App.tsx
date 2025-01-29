@@ -43,7 +43,7 @@ src="https://cdn.getyourguide.com/img/tour/47988c7e5b8bbf0af11e62a6ff4aefeea5a7f
     content: (
       <div className="space-y-4">
         <img 
-          src="https://yucatanmagazine.com/wp-content/uploads/2022/01/Tazumal001.jpg"
+          src="https://images.ctfassets.net/vm4sgchw7ymt/6BR90SQYU2NSvZr33yecnW/12a5a3ce5c4eee2aafadb96a2c81deba/pupases-el-salvador-popular-food.jpg"
           alt="Pupusas"
           className="w-full h-64 object-cover rounded-lg"
         />
@@ -62,7 +62,7 @@ src="https://cdn.getyourguide.com/img/tour/47988c7e5b8bbf0af11e62a6ff4aefeea5a7f
     content: (
       <div className="space-y-4">
         <img 
-          src="https://images.unsplash.com/photo-1589487391730-58f20eb2c308?auto=format&fit=crop&w=1200&h=600"
+          src="https://yucatanmagazine.com/wp-content/uploads/2022/01/Tazumal001.jpg"
           alt="Ruinas de Tazumal"
           className="w-full h-64 object-cover rounded-lg"
         />
@@ -80,6 +80,11 @@ src="https://cdn.getyourguide.com/img/tour/47988c7e5b8bbf0af11e62a6ff4aefeea5a7f
     title: "Personas Famosas",
     content: (
       <div className="space-y-4">
+        <img 
+          src="https://example.com/path-to-image.jpghttps://www.worldsoccer.com/wp-content/uploads/sites/13/2015/09/Jorge-Magico-Gonza%CC%81lez.gif?w=630" 
+          alt="Personas Famosas"
+          className="w-full h-64 object-cover rounded-lg"
+        />
         <div className="grid grid-cols-2 gap-4">
           <div className="space-y-2">
             <h3 className="font-bold">Arte y Cultura</h3>
@@ -103,6 +108,11 @@ src="https://cdn.getyourguide.com/img/tour/47988c7e5b8bbf0af11e62a6ff4aefeea5a7f
     title: "Fechas Importantes",
     content: (
       <div className="space-y-4">
+        <img 
+          src="https://i0.wp.com/elsalvadorinenglish.com/wp-content/uploads/2022/09/Cover-Wordpress-23.png?w=1170&ssl=1" 
+          alt="Personas Famosas"
+          className="w-full h-64 object-cover rounded-lg"
+        />
         <div className="space-y-2">
           <h3 className="font-bold">Línea de Tiempo Histórica</h3>
           <ul className="list-disc list-inside space-y-2">
@@ -119,6 +129,11 @@ src="https://cdn.getyourguide.com/img/tour/47988c7e5b8bbf0af11e62a6ff4aefeea5a7f
     title: "Productos",
     content: (
       <div className="space-y-4">
+        <img 
+          src="https://assets.bonappetit.com/photos/57c5d0e36a6acdf3485dfb2b/16:9/w_2240,c_limit/3717295073_f5ae257d71_o.jpg" 
+          alt="Personas Famosas"
+          className="w-full h-64 object-cover rounded-lg"
+        />
         <h3 className="text-xl font-bold">Principales Exportaciones</h3>
         <div className="grid grid-cols-2 gap-4">
           <ul className="list-disc list-inside space-y-2">
